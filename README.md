@@ -1,0 +1,1 @@
+El indice, referencias y citas tienen hipervinculos para facilitar la navegación por el documento, se recomienda descargar el documento para acceder a las secciones de manera mas sencilla por medio de los hipervinculos
