@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto universitario ha sido desarrollado para aplicar técnicas de aprendizaje automático en el análisis de datos, utilizando un modelo predictivo de clasificación binaria basado en Random Forest. Dado que este proyecto es accesible únicamente para el profesor y el alumno, se ha tomado en cuenta la normativa ISO/IEC 27001 para asegurar el manejo ético y seguro de la información.
+Este proyecto ha sido desarrollado para aplicar técnicas de aprendizaje automático en el análisis de datos, utilizando un modelo predictivo de clasificación binaria basado en Random Forest. Dado que este proyecto es accesible únicamente para el profesor y el alumno, se ha tomado en cuenta la normativa ISO/IEC 27001 para asegurar el manejo ético y seguro de la información.
 
 ## Normativa Asociada
 
@@ -50,4 +50,4 @@ Para prevenir estos escenarios, es esencial seguir las prácticas recomendadas d
 
 ## Conclusión
 
-Este proyecto universitario está diseñado para cumplir con la normativa ISO/IEC 27001 y la licencia CC BY 4.0, asegurando un manejo responsable y ético de los datos. Las medidas implementadas garantizan la protección de la información y el cumplimiento de las políticas de seguridad y privacidad.
+Este proyecto está diseñado para cumplir con la normativa ISO/IEC 27001 y la licencia CC BY 4.0, asegurando un manejo responsable y ético de los datos. Las medidas implementadas garantizan la protección de la información y el cumplimiento de las políticas de seguridad y privacidad.
